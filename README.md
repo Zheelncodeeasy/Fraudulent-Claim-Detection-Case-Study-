@@ -38,7 +38,7 @@ Severity and monetary structure drive most of the model’s predictive power, wi
 **Questions**
 1. How can we analyze historical claim data to detect patterns that indicate fraudulent claims?
    
- - The analysis reveals several effective approaches:
+- The analysis reveals several effective approaches:
 a- Financial Pattern Analysis
 * Track claim amount distributions and flag outliers
 * Monitor claim-to-deductible ratios
